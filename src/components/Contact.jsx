@@ -35,7 +35,7 @@ const Contact = () => {
 
         <div className="flex flex-col items-center text-center">
           <p className="mb-10 font-general text-[10px] uppercase">
-            Join Zentry
+            Join Quellion and be part of the future of gaming
           </p>
 
           <AnimatedTitle
@@ -45,7 +45,7 @@ const Contact = () => {
 
           <Button
             title="contact us"
-            href="mailto:hello@zentry.io"
+            href="mailto:helloquellion@gmail.com"
             containerClass="mt-10 cursor-pointer"
           />
         </div>
